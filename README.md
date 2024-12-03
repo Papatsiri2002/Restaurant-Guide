@@ -1,4 +1,4 @@
-<h1 align="center">Restaurant Guide 🚀</h1>
+<h1 align="center">Restaurant Guide Website🚀</h1>
 
 ### Setup .env file
 
