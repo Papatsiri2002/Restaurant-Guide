@@ -1,5 +1,4 @@
 <h1 align="center">Restaurant Guide Website🚀</h1>
--   ✅ This is a lot of work. Support my work by subscribing to the [Channel](https://www.youtube.com/@asaprogrammer_)
 
 ### Setup .env file
 
