@@ -19,5 +19,3 @@ npm run build
 ```shell
 npm run start
 ```
-
-### I'll see you in the next one! 🚀
