@@ -1,4 +1,5 @@
 import React from "react";
+import { Link } from "react-router-dom";
 import styled from "styled-components";
 import hero from "../asset/hero.jpg";
 import heroDesign from "../asset/HeroDesign.png";
@@ -73,12 +74,15 @@ const HomePage = () => {
           <img src={background} alt="" />
         </div>
         <div className="content">
-          <h1>Buy Premium Pan Free Hand Toast!</h1>
+          <h1>Discover Your Next Favorite Dining Spot!</h1>
           <h2>
-            Lorem, ipsum dolor sit amet consectetur adipisicing elit. Modi,
-            molestias!
+            Are you ready to explore the best dining experiences around?
+            Restaurant Guide is your go-to resource for discovering top-rated
+            restaurants, hidden gems, and exclusive reviews.
           </h2>
-          <button>Buy Now</button>
+          <Link to="/List">
+            <button>Explore Restaurant</button>
+          </Link>
         </div>
       </BgSection>
 
